@@ -11,5 +11,5 @@ def add_character(show, name)
   
   BASE_HOA[show].push(name)
   
-  show
+  BASE_HOA[show]
 end
